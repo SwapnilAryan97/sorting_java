@@ -1,1 +1,1 @@
-# algorithms_java
+# algorithms written in java
