@@ -1,4 +1,4 @@
-public static void insertionSort(int[] intArray){
+public static void selectionSort(int[] intArray){
         int i, temp = 0;
         for(i=intArray.length; i>0; i--){
             int largest = intArray[i];
