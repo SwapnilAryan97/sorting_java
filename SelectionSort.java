@@ -13,5 +13,4 @@ public static void selectionSort(int[] intArray){
             intArray[i] = intArray[largest];
             intArray[largest] = temp;
         }
-        //return;
     }
