@@ -1,7 +1,5 @@
 public static void bubbleSort(int[] intArray) {
-
         int i, j, temp = 0;
-
         // traversing through the array
         for (i = intArray.length - 1; i > 0; i--) {
             for (j = 0; j < intArray.length - 1; j++) {
@@ -13,5 +11,4 @@ public static void bubbleSort(int[] intArray) {
                 }
             }
         }
-    return ;
     }
