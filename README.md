@@ -5,3 +5,4 @@
 * Selection Sort    : Unstable | O(n^2)
 * Insertion Sort    : Stable   | O(n^2)
 * Merge Sort        : Stable   | O(nlogn)
+* Quick Sort        : Stable   | O(nlogn)
